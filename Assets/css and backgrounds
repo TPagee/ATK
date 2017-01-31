@@ -1,5 +1,5 @@
 body {
-  background-image:url('rockett.png');
+  background-image:url('');
   background-repeat: no-repeat;
   background-size: 100%;
 }
